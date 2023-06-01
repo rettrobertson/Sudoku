@@ -13,7 +13,7 @@ namespace Sudoku
                 string file = dialog.FileName;
                 (char[] chars, char[][] puzzle) = FileHandler.ReadFile(file);
                 int[][] temp = FileHandler.CharToInt(chars, puzzle);
-                int[][] justInCase = temp;
+                // int[][] justInCase = temp;
                 NakedSingle single = new();
                 NakedDouble nakedDouble = new(single);
                 Guesser guesser = new(nakedDouble);
