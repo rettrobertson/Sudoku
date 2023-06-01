@@ -1,0 +1,15 @@
+C:\Users\rettr\Computer_Science\cs5700-OOP\Assignments\Sudoku\Sudoku\bin\Debug\net6.0-windows\Sudoku.exe
+C:\Users\rettr\Computer_Science\cs5700-OOP\Assignments\Sudoku\Sudoku\bin\Debug\net6.0-windows\Sudoku.deps.json
+C:\Users\rettr\Computer_Science\cs5700-OOP\Assignments\Sudoku\Sudoku\bin\Debug\net6.0-windows\Sudoku.runtimeconfig.json
+C:\Users\rettr\Computer_Science\cs5700-OOP\Assignments\Sudoku\Sudoku\bin\Debug\net6.0-windows\Sudoku.dll
+C:\Users\rettr\Computer_Science\cs5700-OOP\Assignments\Sudoku\Sudoku\bin\Debug\net6.0-windows\Sudoku.pdb
+C:\Users\rettr\Computer_Science\cs5700-OOP\Assignments\Sudoku\Sudoku\obj\Debug\net6.0-windows\Sudoku.csproj.AssemblyReference.cache
+C:\Users\rettr\Computer_Science\cs5700-OOP\Assignments\Sudoku\Sudoku\obj\Debug\net6.0-windows\Sudoku.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rettr\Computer_Science\cs5700-OOP\Assignments\Sudoku\Sudoku\obj\Debug\net6.0-windows\Sudoku.AssemblyInfoInputs.cache
+C:\Users\rettr\Computer_Science\cs5700-OOP\Assignments\Sudoku\Sudoku\obj\Debug\net6.0-windows\Sudoku.AssemblyInfo.cs
+C:\Users\rettr\Computer_Science\cs5700-OOP\Assignments\Sudoku\Sudoku\obj\Debug\net6.0-windows\Sudoku.csproj.CoreCompileInputs.cache
+C:\Users\rettr\Computer_Science\cs5700-OOP\Assignments\Sudoku\Sudoku\obj\Debug\net6.0-windows\Sudoku.dll
+C:\Users\rettr\Computer_Science\cs5700-OOP\Assignments\Sudoku\Sudoku\obj\Debug\net6.0-windows\refint\Sudoku.dll
+C:\Users\rettr\Computer_Science\cs5700-OOP\Assignments\Sudoku\Sudoku\obj\Debug\net6.0-windows\Sudoku.pdb
+C:\Users\rettr\Computer_Science\cs5700-OOP\Assignments\Sudoku\Sudoku\obj\Debug\net6.0-windows\Sudoku.genruntimeconfig.cache
+C:\Users\rettr\Computer_Science\cs5700-OOP\Assignments\Sudoku\Sudoku\obj\Debug\net6.0-windows\ref\Sudoku.dll

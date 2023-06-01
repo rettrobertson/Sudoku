@@ -1,0 +1,153 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\rettr\\Computer_Science\\cs5700-OOP\\Assignments\\Sudoku\\SudokuTests\\SudokuTests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\rettr\\Computer_Science\\cs5700-OOP\\Assignments\\Sudoku\\SudokuTests\\SudokuTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\rettr\\Computer_Science\\cs5700-OOP\\Assignments\\Sudoku\\SudokuTests\\SudokuTests.csproj",
+        "projectName": "SudokuTests",
+        "projectPath": "C:\\Users\\rettr\\Computer_Science\\cs5700-OOP\\Assignments\\Sudoku\\SudokuTests\\SudokuTests.csproj",
+        "packagesPath": "C:\\Users\\rettr\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rettr\\Computer_Science\\cs5700-OOP\\Assignments\\Sudoku\\SudokuTests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\rettr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "C:\\Users\\rettr\\Computer_Science\\cs5700-OOP\\Assignments\\Sudoku\\Sudoku\\Sudoku.csproj": {
+                "projectPath": "C:\\Users\\rettr\\Computer_Science\\cs5700-OOP\\Assignments\\Sudoku\\Sudoku\\Sudoku.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.2.10, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.2.10, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.3.2, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\rettr\\Computer_Science\\cs5700-OOP\\Assignments\\Sudoku\\Sudoku\\Sudoku.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\rettr\\Computer_Science\\cs5700-OOP\\Assignments\\Sudoku\\Sudoku\\Sudoku.csproj",
+        "projectName": "Sudoku",
+        "projectPath": "C:\\Users\\rettr\\Computer_Science\\cs5700-OOP\\Assignments\\Sudoku\\Sudoku\\Sudoku.csproj",
+        "packagesPath": "C:\\Users\\rettr\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rettr\\Computer_Science\\cs5700-OOP\\Assignments\\Sudoku\\Sudoku\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\rettr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
