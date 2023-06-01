@@ -15,20 +15,13 @@ namespace Sudoku
                 int[][] temp = FileHandler.CharToInt(chars, puzzle);
                 // int[][] justInCase = temp;
                 NakedSingle single = new();
-                NakedDouble nakedDouble = new(single);
-                Guesser guesser = new(nakedDouble);
+                Guesser guesser = new(single);
+                // NakedDouble nakedDouble = new(single);
+                // Guesser guesser = new(nakedDouble);
                 List<(int, int)>? undos = guesser.Solve(temp);
                 // the nakedDouble was having a bug every once in a blue moon on the larger puzzles that I couldn't 
                 // figure out what was happening. This code can run and not implement nakedDouble if that bug happens,
                 // but will double the time if it needs to brute force it which could be really long.
-                /*if (undos != null)
-                {
-                    guesser = new(single);
-                    List<(int, int)>? otherUndos = guesser.Solve(justInCase);
-                    puzzle = FileHandler.IntToChar(chars, justInCase);
-                    FileHandler.Output(otherUndos == null, chars, puzzle, "Output.txt");
-                    return;
-                }*/
                 puzzle = FileHandler.IntToChar(chars, temp);
                 FileHandler.Output(undos == null, chars, puzzle, "Output.txt");
             }
